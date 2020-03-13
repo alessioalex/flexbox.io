@@ -1,0 +1,15 @@
+{
+  "name": "flex-direction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "reloadify -f . -p 4000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "reloadify": "^0.2.2"
+  }
+}
